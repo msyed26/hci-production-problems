@@ -5,7 +5,7 @@ Let’s start with something fun: a typeface-pairing game.
 1. Go to the TypeConnection game at http://www.typeconnection.com/. Play it until you arrive at
    three successful pairings. Record their URLs below:
 
-   1.
+   1.http://www.typeconnection.com/step5/xr.php
    2.
    3.
 
@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name:Raleway
+     - URL:https://fonts.google.com/specimen/Raleway#standard-styles
    Typeface Two:
-     - Name:
-     - URL:
+     - Name:Ubuntu
+     - URL:https://fonts.google.com/specimen/Ubuntu
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
