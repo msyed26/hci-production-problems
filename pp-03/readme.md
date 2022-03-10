@@ -36,18 +36,19 @@ Small commits to your Production Problems repository that include:
 
 --To apply the Bars rule, we can ditch the menu side bar, and create a border on the top in which a title could say "Account creation" and to the left of that can be a hamburger menu bar to replace the menu side bar that takes up a ton of margin.
 
----------------------------------
+![list](./1.PNG "list")
 
 * HCI Guideline Two (URL): (Views) https://developer.apple.com/design/human-interface-guidelines/ios/overview/interface-essentials/
 
 
 * Describe how you implemented that guideline in your sketch: The guideline under interface essentials "Views" has many different types of requirements, among them a major one I think that this mobile site lacks is arrangement. I think throwing everything into a single page may make a user feel like its too much too fill out, additionally if there is a field that they do not fill properly, the page will refresh and reset. My implementation would require segmenting the forum into 2 diffrent pages.
 
-
+![list](./2.PNG "list")
 ----------------------------------
 
-* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+* HCI Guideline Three (URL): (Clarity) https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 * Describe how you implemented that guideline in your sketch: The guideline under IOS Design theme (Clarity) states that throughout the app there should be consise speech and clarity. On the main page for creating an account there is a whole paragraph on the same page. We can ditch this to just add one simple line. "Already have an acccount? Login Here!" and create a hyperlink from that text.
 
+![list](./3.PNG "list")
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
